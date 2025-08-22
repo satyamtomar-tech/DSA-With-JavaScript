@@ -21,5 +21,6 @@ console.log(mathMax);
 
 // Using reduce 
 
+
 let reduMax = arr.length ? arr.reduce((acc,value) => (value > acc ? value : acc),arr[0]): undefined;
 console.log(reduMax);
