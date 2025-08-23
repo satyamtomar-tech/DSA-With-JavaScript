@@ -11,7 +11,7 @@ function checkSortedArray(Arr){
    }
   return true;
 }
-// console.log(checkSortedArray(arr));
+console.log(checkSortedArray(arr));
 
 
 //  Using reduce 
