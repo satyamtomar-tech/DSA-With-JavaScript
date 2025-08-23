@@ -8,7 +8,6 @@ const sum = arr.reduce((acc, element) =>   element + acc, 0)
 console.log(sum);
 
 
-
 // Using Loop
 let Sum = 0;
 for (const value of arr) {

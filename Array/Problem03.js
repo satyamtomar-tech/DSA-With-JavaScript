@@ -22,6 +22,7 @@ function findSecondLargest(arr) {
 
   return result.sMax === -Infinity ? null : result.sMax;
 }
+
 console.log(findSecondLargest(arr))
 
 
