@@ -42,6 +42,7 @@ function searchElement(arr, x) {
   return arr.findIndex(el => el === x);
 }
 
+
 console.log(searchElement([1, 2, 3, 4], 3));   
 console.log(searchElement([10, 8, 30, 4, 5], 30)); 
 console.log(searchElement([10, 8, 30], 6));    

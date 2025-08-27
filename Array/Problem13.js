@@ -6,6 +6,7 @@ const arr =  [1, 2, 3, 4, 5];
 function rightRotateByOneElement(Arr, k){
      if(Arr.length === 0)
         return Arr;
+      
         for(let j = 0; k > j; j++){
             let last = Arr[Arr.length - 1]
           for(let i = Arr.length - 1; i > 0; i--){
