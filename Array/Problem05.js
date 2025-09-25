@@ -35,3 +35,7 @@ function sumArr(Arr1){
   return s1;
 }
 console.log(sumArr(arr));
+
+
+
+
